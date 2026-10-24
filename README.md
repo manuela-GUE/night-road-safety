@@ -2,9 +2,9 @@
 
 An interactive data-storytelling dashboard built with **Streamlit** on 10 years of French injury-accident data (2015-2024).
 
-- **Live app:** `<APP_URL>`
-- **Repository:** `<REPO_URL>`
-- **Author:** `<YOUR NAME>` - EFREI Paris, Data Storytelling 2026 (#EFREIDataStories2026)
+- **Live app:** https://night-road-safety-france.streamlit.app/
+- **Repository:** https://github.com/manuela-GUE/night-road-safety
+- **Author:** GUE Blé Manuela - BIA
 
 ## 1. The story
 
